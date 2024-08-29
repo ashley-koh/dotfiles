@@ -1,0 +1,7 @@
+[user]
+	name = ashley-koh
+	email = 36570313+ashley-koh@users.noreply.github.com
+[init]
+	defaultBranch = main
+[core]
+	excludesFile = ~/.gitignore_global
